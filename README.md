@@ -1,6 +1,6 @@
 # grid_view
 ```
-- A Flutter Dashboard Home Screen UI Application using GridView().
+- A Flutter Dashboard Home Screen Application UI using GridView().
 ```
 
 ## Getting Started
